@@ -1,0 +1,14 @@
+{
+  "name": "nodeappinaws",
+  "version": "1.0.0",
+  "description": "demo node app in aws",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "InterviewDOT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
