@@ -24,7 +24,7 @@ Connect to EC2 instance using ssh.\
   
   Note : Please add the inbound rule 3000 Custom TCP rule
   
-  The node application is running in http://ec2-user@ec2-18-222-153-153.us-east-2.compute.amazonaws.com:3000/ \
+  The node application is running in http://ec2-user@ec2-18-218-127-117.us-east-2.compute.amazonaws.com:3000/ \
   
 Create a sample node application\
 Copy the application code to EC2\
