@@ -3,8 +3,7 @@ run node app in aws ec2 instance
 
 # How to deploy node application in an AWS EC2 Instance ?
 
-
-
+<img width="1178" alt="Screen Shot 2019-08-16 at 22 23 40" src="https://user-images.githubusercontent.com/30971809/63196051-992b4580-c074-11e9-91d2-91e055fe1d21.png">
 
 
 # Pre requisite :
