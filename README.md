@@ -13,7 +13,7 @@ Connect to EC2 instance using ssh.\
   ssh -i "nodeappk.pem" ec2-user@ec2-18-218-127-117.us-east-2.compute.amazonaws.com\
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash \
   source /home/ec2-user/.bashrc\
-  nvm -version\
+  nvm --version\
   nvm install node\
   node -v\
   ls\
